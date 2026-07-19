@@ -53,8 +53,6 @@ http://124.90.45.52:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 http://173.208.212.130:8181/720p/hews.m3u8
 #EXTINF:-1 group-title="40",cctv6
 http://173.208.212.130:8181/720p/cctv6.m3u8
-#EXTINF:-1 group-title="40",cctv16
-http://173.208.212.130:8181/720p/cctv16.m3u8
 #EXTINF:-1 group-title="40",cctv8
 http://173.208.212.130:8181/720p/cctv8.m3u8
 #EXTINF:-1 group-title="40",cctv10
