@@ -3,18 +3,52 @@
 http://173.208.212.130:8181/720p/gdws.m3u8
 #EXTINF:-1 group-title="40",cctv9
 http://74.91.26.218:82/live/cctv9hd.m3u8
-#EXTINF:-1 group-title="40",河北卫视
-http://173.208.212.130:8181/720p/hews.m3u8
-#EXTINF:-1 group-title="40",cctv6
-http://173.208.212.130:8181/720p/cctv6.m3u8
-#EXTINF:-1 group-title="40",cctv16
-http://173.208.212.130:8181/720p/cctv16.m3u8
+#EXTINF:-1 group-title="5",CCTV1综合
+http://61.53.174.41:7788/608807420
+#EXTINF:-1 group-title="5",CCTV2财经
+http://61.53.174.41:7788/631780532
+#EXTINF:-1 group-title="5",江苏卫视
+http://61.53.174.41:7788/623899368
+#EXTINF:-1 group-title="5",大湾区卫视
+http://61.53.174.41:7788/608917627
+#EXTINF:-1 group-title="5",CCTV3综艺
+http://61.53.174.41:7788/624878271
 #EXTINF:-1 group-title="40",CCTV-3
 http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 group-title="40",cctv3
 http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 group-title="40",cctv3
 http://173.208.212.130:8181/720p/cctv3.m3u8
+#EXTINF:-1 group-title="5",CCTV15音乐
+http://61.53.174.41:7788/673168223
+#EXTINF:-1 group-title="25",湖南卫视
+http://74.91.26.218:82/live/hnwshd.m3u8
+#EXTINF:-1 group-title="20",湖南卫视
+http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="20",广西卫视
+http://107.150.60.122/live/gxwshd.m3u8
+#EXTINF:-1 group-title="5",CCTV14少儿
+http://61.53.174.41:7788/624878440
+#EXTINF:-1 group-title="5",广东珠江频道
+http://61.53.174.41:7788/639731952
+#EXTINF:-1 group-title="5",新片放映厅
+http://61.53.174.41:7788/619495952
+#EXTINF:-1 group-title="5",CHC影迷电影
+http://61.53.174.41:7788/952383261
+#EXTINF:-1 group-title="5",东方卫视
+http://61.53.174.41:7788/651632648
+#EXTINF:-1 group-title="5",广东卫视
+http://61.53.174.41:7788/608831231
+#EXTINF:-1 group-title="5",东南卫视
+http://61.53.174.41:7788/849116810
+#EXTINF:-1 group-title="5",CCTV-13
+http://go.bkpcp.top/mg/cctv13
+#EXTINF:-1 group-title="40",河北卫视
+http://173.208.212.130:8181/720p/hews.m3u8
+#EXTINF:-1 group-title="40",cctv6
+http://173.208.212.130:8181/720p/cctv6.m3u8
+#EXTINF:-1 group-title="40",cctv16
+http://173.208.212.130:8181/720p/cctv16.m3u8
 #EXTINF:-1 group-title="40",cctv8
 http://173.208.212.130:8181/720p/cctv8.m3u8
 #EXTINF:-1 group-title="40",cctv10
@@ -31,38 +65,14 @@ http://74.91.26.218:82/live/cctv12hd.m3u8
 http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 group-title="25",吉林卫视
 http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="25",安徽卫视
-http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="25",湖南卫视
-http://74.91.26.218:82/live/hnwshd.m3u8
-#EXTINF:-1 group-title="25",宁夏卫视
-http://198.204.228.26/live/nxws.m3u8
-#EXTINF:-1 group-title="25",三沙卫视
-http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-#EXTINF:-1 group-title="25",青海卫视
-http://207.56.13.146:81/cdnlive/qhws.m3u8
-#EXTINF:-1 group-title="25",青海卫视
-http://192.151.150.154/live/qhws.m3u8
 #EXTINF:-1 group-title="20",cctv4
 http://192.151.150.154/live/cctv4k.m3u8
-#EXTINF:-1 group-title="20",cctv8
-http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="20",cctv17
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="20",cctv4
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 group-title="20",湖南卫视
-http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="20",广西卫视
-http://107.150.60.122/live/gxwshd.m3u8
 #EXTINF:-1 group-title="20",湖北卫视
 http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="20",山西卫视
-http://107.150.60.122/live/sxwshd.m3u8
-#EXTINF:-1 group-title="20",云南卫视
-http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="20",青海卫视
-http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 #EXTINF:-1 group-title="20",CCTV-14
 http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 group-title="20",cctv6
@@ -75,100 +85,20 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="20",cctv11
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
-#EXTINF:-1 group-title="20",cctv13
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
-#EXTINF:-1 group-title="20",cctv14
-http://74.91.26.218:82/live/cctv14hd.m3u8
-#EXTINF:-1 group-title="20",四川卫视
-http://198.204.228.26/live/scwshd.m3u8
-#EXTINF:-1 group-title="20",湖北卫视
-http://192.151.150.154/live/hbwshd.m3u8
-#EXTINF:-1 group-title="20",贵州卫视
-http://107.150.60.122/live/gzwshd.m3u8
-#EXTINF:-1 group-title="20",云南卫视
-http://198.204.228.26/live/ynwshd.m3u8
-#EXTINF:-1 group-title="20",云南卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
-#EXTINF:-1 group-title="20",宁夏卫视
-http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
-#EXTINF:-1 group-title="20",三沙卫视
-http://198.204.228.26/live/ssws.m3u8
-#EXTINF:-1 group-title="20",三沙卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
-#EXTINF:-1 group-title="20",青海卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws
-#EXTINF:-1 group-title="20",新疆卫视
-http://107.150.60.122/live/xjws.m3u8
-#EXTINF:-1 group-title="20",兵团卫视
-http://192.151.150.154/live/btws.m3u8
-#EXTINF:-1 group-title="20",CCTV-2
-http://74.91.26.218:82/live/cctv2hd.m3u8
-#EXTINF:-1 group-title="20",CCTV-4 Asia
-http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 group-title="20",CCTV-7
 http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 group-title="20",CCTV-8
 http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 group-title="20",CCTV-8K
 http://192.151.150.154/live/cctv8k.m3u8
-#EXTINF:-1 group-title="20",CCTV-10
-http://74.91.26.218:82/live/cctv10hd.m3u8
 #EXTINF:-1 group-title="20",CCTV-11
 http://74.91.26.218:82/live/cctv11hd.m3u8
-#EXTINF:-1 group-title="20",CCTV-13
-http://74.91.26.218:82/live/cctv13hd.m3u8
-#EXTINF:-1 group-title="20",CCTV-15
-http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 group-title="20",CCTV-17
 http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 group-title="20",cctv2
 http://74.91.26.218:82/live/cctv2hd.m3u8
-#EXTINF:-1 group-title="20",cctv4
-http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 group-title="20",cctv4
-http://207.56.13.146:81/cdnlive/cctv4.m3u8
-#EXTINF:-1 group-title="20",cctv4
-http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-#EXTINF:-1 group-title="20",cctv6
-http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="20",cctv6
-http://74.91.26.218:82/live/cctv6hd.m3u8
-#EXTINF:-1 group-title="20",cctv7
-http://192.151.150.154/live/cctv7hd.m3u8
-#EXTINF:-1 group-title="20",cctv7
-http://74.91.26.218:82/live/cctv7hd.m3u8
-#EXTINF:-1 group-title="20",cctv7
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
-#EXTINF:-1 group-title="20",cctv8
-http://74.91.26.218:82/live/cctv8hd.m3u8
-#EXTINF:-1 group-title="20",cctv8
-http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="20",cctv8
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
-#EXTINF:-1 group-title="20",cctv9
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
-#EXTINF:-1 group-title="20",cctv10
-http://74.91.26.218:82/live/cctv10hd.m3u8
 #EXTINF:-1 group-title="20",cctv10
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
-#EXTINF:-1 group-title="20",cctv11
-http://74.91.26.218:82/live/cctv11hd.m3u8
-#EXTINF:-1 group-title="20",cctv17
-http://74.91.26.218:82/live/cctv17hd.m3u8
-#EXTINF:-1 group-title="20",cctv4
-http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="20",云南卫视
-http://192.151.150.154/live/ynwshd.m3u8
-#EXTINF:-1 group-title="20",三沙卫视
-http://192.151.150.154/live/ssws.m3u8
-#EXTINF:-1 group-title="5",云南卫视
-http://183.207.248.71/cntv/live1/yunnanstv/yunnanstv
-#EXTINF:-1 group-title="5",江苏卫视
-http://61.53.174.41:7788/623899368
-#EXTINF:-1 group-title="5",大湾区卫视
-http://61.53.174.41:7788/608917627
-#EXTINF:-1 group-title="5",CCTV3综艺
-http://61.53.174.41:7788/624878271
 #EXTINF:-1 group-title="5",CCTV5体育
 http://61.53.174.41:7788/641886683
 #EXTINF:-1 group-title="5",CCTV5+体育赛事
@@ -181,30 +111,6 @@ http://61.53.174.41:7788/673168140
 http://61.53.174.41:7788/667987558
 #EXTINF:-1 group-title="5",财富天下
 http://61.53.174.41:7788/956923159
-#EXTINF:-1 group-title="5",广东珠江频道
-http://61.53.174.41:7788/639731952
-#EXTINF:-1 group-title="5",新片放映厅
-http://61.53.174.41:7788/619495952
-#EXTINF:-1 group-title="5",CHC影迷电影
-http://61.53.174.41:7788/952383261
-#EXTINF:-1 group-title="5",湖北卫视
-http://207.56.13.146:81/cdnlive/hbws.m3u8
-#EXTINF:-1 group-title="5",甘肃卫视
-http://207.56.13.146:81/cdnlive/gsws.m3u8
-#EXTINF:-1 group-title="5",北京卫视
-http://go.bkpcp.top/mg/bjws
-#EXTINF:-1 group-title="5",东方卫视
-http://61.53.174.41:7788/651632648
-#EXTINF:-1 group-title="5",广东卫视
-http://61.53.174.41:7788/608831231
-#EXTINF:-1 group-title="5",东南卫视
-http://61.53.174.41:7788/849116810
-#EXTINF:-1 group-title="5",CCTV-13
-http://go.bkpcp.top/mg/cctv13
-#EXTINF:-1 group-title="5",CCTV1综合
-http://61.53.174.41:7788/608807420
-#EXTINF:-1 group-title="5",CCTV2财经
-http://61.53.174.41:7788/631780532
 #EXTINF:-1 group-title="5",CCTV4中文国际
 http://61.53.174.41:7788/631780421
 #EXTINF:-1 group-title="5",CCTV6电影
@@ -217,13 +123,5 @@ http://61.53.174.41:7788/624878405
 http://61.53.174.41:7788/673168185
 #EXTINF:-1 group-title="5",CCTV13新闻
 http://61.53.174.41:7788/608807423
-#EXTINF:-1 group-title="5",CCTV14少儿
-http://61.53.174.41:7788/624878440
-#EXTINF:-1 group-title="5",CCTV15音乐
-http://61.53.174.41:7788/673168223
 #EXTINF:-1 group-title="5",CCTV17农业农村
 http://61.53.174.41:7788/673168256
-#EXTINF:-1 group-title="5",海南卫视
-http://207.56.13.146:81/cdnlive/lyws.m3u8
-#EXTINF:-1 group-title="5",浙江卫视
-http://173.208.212.130:8181/1080p/zjws.m3u8
