@@ -8,6 +8,8 @@ http://61.53.174.41:7788/608807420
 #EXTINF:-1 group-title="5",cctv15
 http://111.76.17.184:1234/673168223
 #EXTINF:-1 group-title="5",cctv15
+http://111.76.17.184:1234/608807420
+#EXTINF:-1 group-title="5",cctv15
 http://106.5.175.215:1234/673168223
 #EXTINF:-1 group-title="5",cctv2
 http://61.53.174.41:7788/631780532
@@ -131,3 +133,37 @@ http://61.53.174.41:7788/673168185
 http://61.53.174.41:7788/608807423
 #EXTINF:-1 group-title="5",cctv17
 http://61.53.174.41:7788/673168256
+#EXTINF:-1 group-title="3",广东韶关综合台
+https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+#EXTINF:-1 group-title="3",广州
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 group-title="3",cctv风云音乐
+https://stream1.freetv.fun/6224290ea7d17738447d9d6c02c1d33ee4f0a39d9f668426a6f313a52b5ddb7e.m3u8
+#EXTINF:-1 group-title="3",吉林综艺文化
+https://stream1.freetv.fun/6ae4ffafe3b4d1c07ff72d446295aa3a8e9112efcdc77da98792f23176e45514.m3u8
+#EXTINF:-1 group-title="3",嘉佳卡通
+https://stream1.freetv.fun/bee9044f047d4458c631c35b7af51298a624b14d6f9b74a4ea6985c8e4b36106.m3u8
+#EXTINF:-1 group-title="3",cctv10
+https://stream1.freetv.fun/140be709dc05f28da750161d3f0288f90aad398427dd9e4ee9a9a9642a5cf8fc.m3u8
+#EXTINF:-1 group-title="3",cctv1
+https://stream1.freetv.fun/9b729e6c878984d044d0552a24528d74fe7ef50bf62542ff952688d80f70e770.m3u8
+#EXTINF:-1 group-title="3",广东珠江
+https://stream1.freetv.fun/ad8dcd9cca87071079d7e882cb080770a762f51e3f2fa0cf243b30c2ee09da5b.m3u8
+#EXTINF:-1 group-title="3",Now TV 102.3FM Edmonton
+https://videostream.jpbgdigital.com/NOWTV.m3u8
+#EXTINF:-1 group-title="3",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="3",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="3",广州综合
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+#EXTINF:-1 group-title="3",cctv2
+http://69.30.245.50/live/cctv2.m3u8
+#EXTINF:-1 group-title="3",cctv3
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="3",cctv7
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="3",cctv8
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="3",cctv14
+http://204.12.221.218:8181/3m1080p/cctv14.m3u8
