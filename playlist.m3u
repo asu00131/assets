@@ -29,111 +29,111 @@ http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8K
 http://192.151.150.154/live/cctv8k.m3u8
-#EXTINF:-1 group-title="央视",cctv9
+#EXTINF:-1 group-title="央视",CCTV-9 记录
 http://74.91.26.218:82/live/cctv9hd.m3u8
-#EXTINF:-1 group-title="央视",cctv1
+#EXTINF:-1 group-title="央视",CCTV-1 综合
 http://61.53.174.41:7788/608807420
-#EXTINF:-1 group-title="央视",cctv15
+#EXTINF:-1 group-title="央视",CCTV-15 音乐
 http://111.76.17.184:1234/673168223
-#EXTINF:-1 group-title="央视",cctv15
+#EXTINF:-1 group-title="央视",CCTV-15 音乐
 http://111.76.17.184:1234/608807420
-#EXTINF:-1 group-title="央视",cctv15
+#EXTINF:-1 group-title="央视",CCTV-15 音乐
 http://106.5.175.215:1234/673168223
-#EXTINF:-1 group-title="央视",cctv2
+#EXTINF:-1 group-title="央视",CCTV-2 财经
 http://61.53.174.41:7788/631780532
-#EXTINF:-1 group-title="央视",cctv3
+#EXTINF:-1 group-title="央视",CCTV-3 综艺
 http://74.91.26.218:82/live/cctv3hd.m3u8
-#EXTINF:-1 group-title="央视",cctv3
+#EXTINF:-1 group-title="央视",CCTV-3 综艺
 http://173.208.212.130:8181/720p/cctv3.m3u8
-#EXTINF:-1 group-title="央视",cctv3
+#EXTINF:-1 group-title="央视",CCTV-3 综艺
 http://61.53.174.41:7788/624878271
-#EXTINF:-1 group-title="央视",cctv3
+#EXTINF:-1 group-title="央视",CCTV-3 综艺
 http://74.91.26.218:82/live/cctv3hd.m3u8
-#EXTINF:-1 group-title="央视",cctv15
+#EXTINF:-1 group-title="央视",CCTV-15 音乐
 http://61.53.174.41:7788/673168223
-#EXTINF:-1 group-title="央视",cctv14
+#EXTINF:-1 group-title="央视",CCTV-14 少儿
 http://61.53.174.41:7788/624878440
-#EXTINF:-1 group-title="央视",cctv13
+#EXTINF:-1 group-title="央视",CCTV-13 新闻
 http://go.bkpcp.top/mg/cctv13
-#EXTINF:-1 group-title="央视",cctv6
+#EXTINF:-1 group-title="央视",CCTV-6 电影
 http://173.208.212.130:8181/720p/cctv6.m3u8
-#EXTINF:-1 group-title="央视",cctv8
+#EXTINF:-1 group-title="央视",CCTV-8 电视剧
 http://173.208.212.130:8181/720p/cctv8.m3u8
-#EXTINF:-1 group-title="央视",cctv10
+#EXTINF:-1 group-title="央视",CCTV-10 科教
 http://173.208.212.130:8181/720p/cctv10.m3u8
-#EXTINF:-1 group-title="央视",cctv17
+#EXTINF:-1 group-title="央视",CCTV-17 农业 农村
 http://173.208.212.130:8181/720p/cctv17.m3u8
-#EXTINF:-1 group-title="央视",cctv7
+#EXTINF:-1 group-title="央视",CCTV-7 国防 军事
 http://173.208.212.130:8181/720p/cctv7.m3u8
-#EXTINF:-1 group-title="央视",cctv13
+#EXTINF:-1 group-title="央视",CCTV-13 新闻
 http://173.208.212.130:8181/720p/cctv13.m3u8
-#EXTINF:-1 group-title="央视",cctv12
+#EXTINF:-1 group-title="央视",CCTV-12 社会与法
 http://74.91.26.218:82/live/cctv12hd.m3u8
-#EXTINF:-1 group-title="央视",cctv12
+#EXTINF:-1 group-title="央视",CCTV-12 社会与法
 http://74.91.26.218:82/live/cctv12hd.m3u8
-#EXTINF:-1 group-title="央视",cctv4
+#EXTINF:-1 group-title="央视",CCTV-4 中文国际
 http://192.151.150.154/live/cctv4k.m3u8
-#EXTINF:-1 group-title="央视",cctv17
+#EXTINF:-1 group-title="央视",CCTV-17 农业 农村
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视",cctv4
+#EXTINF:-1 group-title="央视",CCTV-4 中文国际
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 group-title="央视",cctv14
+#EXTINF:-1 group-title="央视",CCTV-14 少儿
 http://74.91.26.218:82/live/cctv14hd.m3u8
-#EXTINF:-1 group-title="央视",cctv6
+#EXTINF:-1 group-title="央视",CCTV-6 电影
 http://207.56.13.146:81/cdnlive/cctv6.m3u8
-#EXTINF:-1 group-title="央视",cctv7
+#EXTINF:-1 group-title="央视",CCTV-7 国防 军事
 http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视",cctv7
+#EXTINF:-1 group-title="央视",CCTV-7 国防 军事
 http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视",cctv9
+#EXTINF:-1 group-title="央视",CCTV-9 记录
 http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视",cctv11
+#EXTINF:-1 group-title="央视",CCTV-11 戏曲
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
-#EXTINF:-1 group-title="央视",cctv7
+#EXTINF:-1 group-title="央视",CCTV-7 国防 军事
 http://74.91.26.218:82/live/cctv7hd.m3u8
-#EXTINF:-1 group-title="央视",cctv8
+#EXTINF:-1 group-title="央视",CCTV-8 电视剧
 http://74.91.26.218:82/live/cctv8hd.m3u8
-#EXTINF:-1 group-title="央视",cctv11
+#EXTINF:-1 group-title="央视",CCTV-11 戏曲
 http://74.91.26.218:82/live/cctv11hd.m3u8
-#EXTINF:-1 group-title="央视",cctv17
+#EXTINF:-1 group-title="央视",CCTV-17 农业 农村
 http://74.91.26.218:82/live/cctv17hd.m3u8
-#EXTINF:-1 group-title="央视",cctv2
+#EXTINF:-1 group-title="央视",CCTV-2 财经
 http://74.91.26.218:82/live/cctv2hd.m3u8
-#EXTINF:-1 group-title="央视",cctv10
+#EXTINF:-1 group-title="央视",CCTV-10 科教
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
-#EXTINF:-1 group-title="央视",cctv5
+#EXTINF:-1 group-title="央视",CCTV-5+ 体育赛事
 http://61.53.174.41:7788/641886683
-#EXTINF:-1 group-title="央视",cctv5plus
+#EXTINF:-1 group-title="央视",CCTV-5+ 体育赛事
 http://61.53.174.41:7788/641886773
-#EXTINF:-1 group-title="央视",cctv7
+#EXTINF:-1 group-title="央视",CCTV-7 国防 军事
 http://61.53.174.41:7788/673168121
-#EXTINF:-1 group-title="央视",cctv9
+#EXTINF:-1 group-title="央视",CCTV-9 记录
 http://61.53.174.41:7788/673168140
-#EXTINF:-1 group-title="央视",cctv11
+#EXTINF:-1 group-title="央视",CCTV-11 戏曲
 http://61.53.174.41:7788/667987558
-#EXTINF:-1 group-title="央视",cctv4
+#EXTINF:-1 group-title="央视",CCTV-4 中文国际
 http://61.53.174.41:7788/631780421
-#EXTINF:-1 group-title="央视",cctv6
+#EXTINF:-1 group-title="央视",CCTV-6 电影
 http://61.53.174.41:7788/624878396
-#EXTINF:-1 group-title="央视",cctv8
+#EXTINF:-1 group-title="央视",CCTV-8 电视剧
 http://61.53.174.41:7788/624878356
-#EXTINF:-1 group-title="央视",cctv10
+#EXTINF:-1 group-title="央视",CCTV-10 科教
 http://61.53.174.41:7788/624878405
-#EXTINF:-1 group-title="央视",cctv12
+#EXTINF:-1 group-title="央视",CCTV-12 社会与法
 http://61.53.174.41:7788/673168185
-#EXTINF:-1 group-title="央视",cctv13
+#EXTINF:-1 group-title="央视",CCTV-13 新闻
 http://61.53.174.41:7788/608807423
-#EXTINF:-1 group-title="央视",cctv17
+#EXTINF:-1 group-title="央视",CCTV-17 农业 农村
 http://61.53.174.41:7788/673168256
-#EXTINF:-1 group-title="央视",cctv2
+#EXTINF:-1 group-title="央视",CCTV-2 财经
 http://69.30.245.50/live/cctv2.m3u8
-#EXTINF:-1 group-title="央视",cctv3
+#EXTINF:-1 group-title="央视",CCTV-3 综艺
 http://74.91.26.218:82/live/cctv3hd.m3u8
-#EXTINF:-1 group-title="央视",cctv7
+#EXTINF:-1 group-title="央视",CCTV-7 国防 军事
 http://74.91.26.218:82/live/cctv7hd.m3u8
-#EXTINF:-1 group-title="央视",cctv8
+#EXTINF:-1 group-title="央视",CCTV-8 电视剧
 http://74.91.26.218:82/live/cctv8hd.m3u8
-#EXTINF:-1 group-title="央视",cctv14
+#EXTINF:-1 group-title="央视",CCTV-14 少儿
 http://204.12.221.218:8181/3m1080p/cctv14.m3u8
 #EXTINF:-1 group-title="50",佛山电台飞跃924
 https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_42_audio.m3u8
@@ -151,7 +151,7 @@ https://videostream.jpbgdigital.com/NOWTV.m3u8
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="50",广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-#EXTINF:-1 group-title="50",Zhejiang TV International
+#EXTINF:-1 group-title="50",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 group-title="50",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
