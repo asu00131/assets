@@ -137,7 +137,7 @@ http://74.91.26.218:82/live/cctv8hd.m3u8
 http://204.12.221.218:8181/3m1080p/cctv14.m3u8
 #EXTINF:-1 group-title="50",佛山电台飞跃924
 https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_42_audio.m3u8
-#EXTINF:-1 group-title="50",广东珠江频道
+#EXTINF:-1 group-title="50",广东珠江
 http://61.53.174.41:7788/639731952
 #EXTINF:-1 group-title="50",新片放映厅
 http://61.53.174.41:7788/619495952
@@ -151,4 +151,7 @@ https://videostream.jpbgdigital.com/NOWTV.m3u8
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="50",广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-
+#EXTINF:-1 group-title="50",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1 group-title="50",苏州4K
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
