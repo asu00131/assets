@@ -1,4 +1,888 @@
 #EXTM3U
+# 最优流畅性播放列表 (is_best, score>=80.0)
+# 生成 2026-08-15 01:54:19 | 共 294 条
+# 100.0分 A 优秀 首帧0.63s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",金鹰纪实
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
+# 88.3分 A 优秀 首帧5.09s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-1
+http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+# 100.0分 A 优秀 首帧0.64s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-2 财经
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
+# 100.0分 A 优秀 首帧0.64s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-3 综艺
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+# 100.0分 A 优秀 首帧0.65s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-4 中文国际
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
+# 100.0分 A 优秀 首帧0.63s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-5 体育
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
+# 100.0分 A 优秀 首帧0.63s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-5+ 体育赛事
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
+# 100.0分 A 优秀 首帧0.59s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-6 电影
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
+# 100.0分 A 优秀 首帧0.62s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-7 国防 军事
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8
+# 100.0分 A 优秀 首帧0.59s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-8 电视剧
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
+# 100.0分 A 优秀 首帧0.63s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-9 记录
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226657/1.m3u8
+# 100.0分 A 优秀 首帧0.61s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-9 记录
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8
+# 100.0分 A 优秀 首帧0.68s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-10 科教
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8
+# 100.0分 A 优秀 首帧0.61s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-11 戏曲
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
+# 100.0分 A 优秀 首帧0.75s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-12 社会与法
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8
+# 100.0分 A 优秀 首帧0.55s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-12 社会与法
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226748/1.m3u8
+# 100.0分 A 优秀 首帧0.72s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-13 新闻
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
+# 100.0分 A 优秀 首帧0.72s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-14 少儿
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226663/1.m3u8
+# 100.0分 A 优秀 首帧0.69s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-14 少儿
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
+# 100.0分 A 优秀 首帧0.71s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-16 奥林匹克
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
+# 100.0分 A 优秀 首帧0.72s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-17 农业 农村
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8
+# 100.0分 A 优秀 首帧0.69s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-17 农业 农村
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
+# 100.0分 A 优秀 首帧0.68s -
+#EXTINF:-1 tvg-id="" group-title="最优",佛山电台飞跃924
+https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_42_audio.m3u8
+# 100.0分 A 优秀 首帧0.69s -
+#EXTINF:-1 tvg-id="" group-title="最优",河北卫视
+http://124.90.45.52:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+# 99.9分 A 优秀 首帧1.03s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",大湾区卫视
+http://222.128.55.152:9080/live/dwq.m3u8
+# 99.6分 A 优秀 首帧1.15s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-15 音乐
+http://106.5.175.215:1234/673168223
+# 95.2分 A 优秀 首帧2.66s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-1 综合
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
+# 94.0分 A 优秀 首帧3.08s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",文化精品
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
+# 91.1分 A 优秀 首帧4.1s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-15音乐
+http://173.208.212.130:8181/720p/cctv15.m3u8
+# 91.1分 A 优秀 首帧4.11s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广西都市
+http://192.151.150.154/live/gxds.m3u8
+# 91.1分 A 优秀 首帧4.12s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",湖南娱乐
+http://107.150.60.122/live/hnyl.m3u8
+# 91.0分 A 优秀 首帧4.15s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-2财经
+http://173.208.212.130:8181/720p/cctv2.m3u8
+# 91.0分 A 优秀 首帧4.17s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-7HD
+http://107.150.60.122/live/cctv7hd.m3u8
+# 90.9分 A 优秀 首帧4.19s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",成龙电影
+http://107.150.60.122/live/lbcl.m3u8
+# 90.8分 A 优秀 首帧4.21s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-风云音乐
+http://192.151.150.154/live/fyyy.m3u8
+# 90.6分 A 优秀 首帧4.3s 720x576
+#EXTINF:-1 tvg-id="" group-title="最优",三沙卫视
+http://198.204.228.26/live/ssws.m3u8
+# 90.4分 A 优秀 首帧4.37s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",湖南教育
+http://107.150.60.122/live/hnjy.m3u8
+# 90.3分 A 优秀 首帧4.4s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",广东体育
+http://198.204.228.26/live/gdty.m3u8
+# 90.3分 A 优秀 首帧4.41s 720x576
+#EXTINF:-1 tvg-id="" group-title="最优",北京卡酷少儿
+http://198.204.228.26/live/btvkk.m3u8
+# 90.3分 A 优秀 首帧4.41s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",广西都市
+http://107.150.60.122/live/gxds.m3u8
+# 90.2分 A 优秀 首帧4.44s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-3HD
+http://107.150.60.122/live/cctv3hd.m3u8
+# 90.1分 A 优秀 首帧4.45s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",江西新闻频道
+http://192.151.150.154/live/jxtv7.m3u8
+# 90.1分 A 优秀 首帧4.48s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广西都市
+http://198.204.228.26/live/gxds.m3u8
+# 90.0分 A 优秀 首帧4.49s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",安徽卫视
+http://173.208.212.130:8181/720p/ahws.m3u8
+# 90.0分 A 优秀 首帧4.5s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-13HD
+http://198.204.228.26/live/cctv13hd.m3u8
+# 90.0分 A 优秀 首帧4.51s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-3综艺
+http://173.208.212.130:8181/1080p/cctv3.m3u8
+# 89.9分 A 优秀 首帧4.55s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",贵州卫视HD
+http://192.151.150.154/live/gzwshd.m3u8
+# 89.8分 A 优秀 首帧4.57s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-4HD
+http://192.151.150.154/live/cctv4hd.m3u8
+# 89.8分 A 优秀 首帧4.58s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广西新闻
+http://107.150.60.122/live/gxxw.m3u8
+# 89.8分 A 优秀 首帧4.58s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-第一剧场
+http://192.151.150.154/live/dyjc.m3u8
+# 89.7分 A 优秀 首帧4.59s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-高尔夫网球
+http://107.150.60.122/live/gefwq.m3u8
+# 89.7分 A 优秀 首帧4.59s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-12HD
+http://107.150.60.122/live/cctv12hd.m3u8
+# 89.7分 A 优秀 首帧4.6s 640x480
+#EXTINF:-1 tvg-id="" group-title="最优",哈尔滨影视
+http://stream.hrbtv.net/yspd/sd/live.m3u8
+# 89.7分 A 优秀 首帧4.61s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-10HD
+http://198.204.228.26/live/cctv10hd.m3u8
+# 89.7分 A 优秀 首帧4.61s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-11HD
+http://107.150.60.122/live/cctv11hd.m3u8
+# 89.7分 A 优秀 首帧4.62s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-6HD
+http://107.150.60.122/live/cctv6hd.m3u8
+# 89.6分 A 优秀 首帧4.63s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-风云足球
+http://bztv.tvbus.cc:8081/cdnlive/fyzq.m3u8
+# 89.6分 A 优秀 首帧4.63s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CHC影迷电影
+http://198.204.228.26/live/chchd.m3u8
+# 89.6分 A 优秀 首帧4.65s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",四川卫视HD
+http://198.204.228.26/live/scwshd.m3u8
+# 89.5分 A 优秀 首帧4.66s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-6
+http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
+# 89.5分 A 优秀 首帧4.67s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-9HD
+http://198.204.228.26/live/cctv9hd.m3u8
+# 89.5分 A 优秀 首帧4.67s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-兵器科技
+http://107.150.60.122/live/gfjs.m3u8
+# 89.5分 A 优秀 首帧4.68s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",天元围棋
+http://107.150.60.122/live/gztywq.m3u8
+# 89.4分 A 优秀 首帧4.7s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-高尔夫网球
+http://198.204.228.26/live/gefwq.m3u8
+# 89.4分 A 优秀 首帧4.71s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-央视台球
+http://198.204.228.26/live/ystq.m3u8
+# 89.4分 A 优秀 首帧4.72s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-5+HD
+http://198.204.228.26/live/cctv5p.m3u8
+# 89.3分 A 优秀 首帧4.75s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-1HD
+http://198.204.228.26/live/cctv1hd.m3u8
+# 89.3分 A 优秀 首帧4.75s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-央视文化精品
+http://198.204.228.26/live/ysjp.m3u8
+# 89.3分 A 优秀 首帧4.75s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-4K超高清
+http://107.150.60.122/live/cctv4k.m3u8
+# 89.3分 A 优秀 首帧4.76s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-10HD
+http://192.151.150.154/live/cctv10hd.m3u8
+# 89.2分 A 优秀 首帧4.76s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-风云足球
+http://107.150.60.122/live/fyzq.m3u8
+# 89.2分 A 优秀 首帧4.77s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-8HD
+http://107.150.60.122/live/cctv8hd.m3u8
+# 89.2分 A 优秀 首帧4.78s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CHC影迷电影
+http://192.151.150.154/live/chchd.m3u8
+# 89.2分 A 优秀 首帧4.78s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",山东卫视HD
+http://198.204.228.26/live/sdwshd.m3u8
+# 89.2分 A 优秀 首帧4.78s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",周星驰电影
+http://192.151.150.154/live/lbzxc.m3u8
+# 89.2分 A 优秀 首帧4.78s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",成龙电影
+http://192.151.150.154/live/lbcl.m3u8
+# 89.2分 A 优秀 首帧4.78s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",湖南教育
+http://198.204.228.26/live/hnjy.m3u8
+# 89.2分 A 优秀 首帧4.78s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",湖南教育
+http://192.151.150.154/live/hnjy.m3u8
+# 89.2分 A 优秀 首帧4.79s 720x576
+#EXTINF:-1 tvg-id="" group-title="最优",北京卡酷少儿
+http://192.151.150.154/live/btvkk.m3u8
+# 89.1分 A 优秀 首帧4.8s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-9纪录
+http://173.208.212.130:8181/720p/cctv9.m3u8
+# 89.1分 A 优秀 首帧4.82s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-6电影
+http://173.208.212.130:8181/720p/cctv6.m3u8
+# 89.1分 A 优秀 首帧4.82s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-风云音乐
+http://107.150.60.122/live/fyyy.m3u8
+# 89.1分 A 优秀 首帧4.83s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-1综合
+http://173.208.212.130:8181/1080p/cctv1.m3u8
+# 89.0分 A 优秀 首帧4.83s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-高尔夫网球
+http://173.208.212.130:8181/720p/gefwq.m3u8
+# 89.0分 A 优秀 首帧4.85s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",江苏卫视HD
+http://107.150.60.122/live/jswshd.m3u8
+# 89.0分 A 优秀 首帧4.85s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-17 农业 农村
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+# 89.0分 A 优秀 首帧4.86s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",辽宁卫视HD
+http://107.150.60.122/live/lnwshd.m3u8
+# 89.0分 A 优秀 首帧4.86s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-4K超高清
+http://192.151.150.154/live/cctv4k.m3u8
+# 88.9分 A 优秀 首帧4.87s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-怀旧剧场
+http://192.151.150.154/live/hjjc.m3u8
+# 88.9分 A 优秀 首帧4.87s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CHC家庭影院
+http://192.151.150.154/live/chcjt.m3u8
+# 88.9分 A 优秀 首帧4.88s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-5HD
+http://107.150.60.122/live/cctv5hd.m3u8
+# 88.9分 A 优秀 首帧4.88s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",江西卫视HD
+http://198.204.228.26/live/jxwshd.m3u8
+# 88.9分 A 优秀 首帧4.88s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-5+HD
+http://107.150.60.122/live/cctv5p.m3u8
+# 88.8分 A 优秀 首帧4.91s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-16HD
+http://107.150.60.122/live/cctv16hd.m3u8
+# 88.8分 A 优秀 首帧4.91s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-12HD
+http://198.204.228.26/live/cctv12hd.m3u8
+# 88.8分 A 优秀 首帧4.91s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广西影视
+http://192.151.150.154/live/gxys.m3u8
+# 88.8分 A 优秀 首帧4.92s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-4HD
+http://107.150.60.122/live/cctv4hd.m3u8
+# 88.8分 A 优秀 首帧4.92s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-15
+http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
+# 88.8分 A 优秀 首帧4.93s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",成龙电影
+http://198.204.228.26/live/lbcl.m3u8
+# 88.8分 A 优秀 首帧4.93s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",新疆卫视
+http://107.150.60.122/live/xjws.m3u8
+# 88.8分 A 优秀 首帧4.94s 720x576
+#EXTINF:-1 tvg-id="" group-title="最优",北京卡酷少儿
+http://107.150.60.122/live/btvkk.m3u8
+# 88.7分 A 优秀 首帧4.97s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-11HD
+http://192.151.150.154/live/cctv11hd.m3u8
+# 88.7分 A 优秀 首帧4.97s 720x576
+#EXTINF:-1 tvg-id="" group-title="最优",北京纪实科教
+http://198.204.228.26/live/btv3.m3u8
+# 88.7分 A 优秀 首帧4.97s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",重庆卫视HD
+http://192.151.150.154/live/cqwshd.m3u8
+# 88.6分 A 优秀 首帧4.99s 1290x720
+#EXTINF:-1 tvg-id="" group-title="最优",林正英影院
+http://107.150.60.122/live/lblzy.m3u8
+# 88.6分 A 优秀 首帧4.99s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广西卫视HD
+http://192.151.150.154/live/gxwshd.m3u8
+# 88.6分 A 优秀 首帧5.0s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广西综艺旅游
+http://192.151.150.154/live/gxzy.m3u8
+# 88.6分 A 优秀 首帧5.0s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-风云剧场
+http://173.208.212.130:8181/720p/fyjc.m3u8
+# 88.5分 A 优秀 首帧5.01s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-央视文化精品
+http://bztv.tvbus.cc:8081/cdnlive/ysjp.m3u8
+# 88.5分 A 优秀 首帧5.01s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广东卫视HD
+http://192.151.150.154/live/gdwshd.m3u8
+# 88.5分 A 优秀 首帧5.02s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-央视文化精品
+http://192.151.150.154/live/ysjp.m3u8
+# 88.5分 A 优秀 首帧5.03s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-4K超高清
+http://198.204.228.26/live/cctv4k.m3u8
+# 88.5分 A 优秀 首帧5.03s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-10科教
+http://173.208.212.130:8181/1080p/cctv10.m3u8
+# 88.5分 A 优秀 首帧5.03s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-13 新闻
+http://107.150.60.122/live/cctv13hd.m3u8
+# 88.5分 A 优秀 首帧5.04s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-风云剧场
+http://198.204.228.26/live/fyjc.m3u8
+# 88.5分 A 优秀 首帧5.04s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",重温经典
+http://107.150.60.122/live/cwjd.m3u8
+# 88.5分 A 优秀 首帧5.04s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-第一剧场
+http://107.150.60.122/live/dyjc.m3u8
+# 88.5分 A 优秀 首帧5.04s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-风云音乐
+http://bztv.tvbus.cc:8081/cdnlive/fyyy.m3u8
+# 88.5分 A 优秀 首帧5.04s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广西影视
+http://198.204.228.26/live/gxys.m3u8
+# 88.5分 A 优秀 首帧5.04s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广西新闻
+http://198.204.228.26/live/gxxw.m3u8
+# 88.5分 A 优秀 首帧5.04s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",湖南娱乐
+http://198.204.228.26/live/hnyl.m3u8
+# 88.4分 A 优秀 首帧5.04s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",北京卫视HD
+http://192.151.150.154/live/bjwshd.m3u8
+# 88.4分 A 优秀 首帧5.05s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",青海卫视
+http://107.150.60.122/live/qhws.m3u8
+# 88.4分 A 优秀 首帧5.06s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-风云剧场
+http://bztv.tvbus.cc:8081/cdnlive/fyjc.m3u8
+# 88.4分 A 优秀 首帧5.06s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",江西新闻频道
+http://107.150.60.122/live/jxtv7.m3u8
+# 88.3分 A 优秀 首帧5.08s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-3
+http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
+# 88.3分 A 优秀 首帧5.08s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-风云音乐
+http://198.204.228.26/live/fyyy.m3u8
+# 88.3分 A 优秀 首帧5.1s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-5体育
+http://173.208.212.130:8181/1080p/cctv5.m3u8
+# 88.3分 A 优秀 首帧5.1s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-风云足球
+http://198.204.228.26/live/fyzq.m3u8
+# 88.2分 A 优秀 首帧5.11s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-怀旧剧场
+http://173.208.212.130:8181/720p/hjjc.m3u8
+# 88.2分 A 优秀 首帧5.11s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-电视指南
+http://107.150.60.122/live/dszn.m3u8
+# 88.2分 A 优秀 首帧5.12s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-13HD
+http://192.151.150.154/live/cctv13hd.m3u8
+# 88.2分 A 优秀 首帧5.12s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-1HD
+http://107.150.60.122/live/cctv1hd.m3u8
+# 88.2分 A 优秀 首帧5.12s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-1HD
+http://192.151.150.154/live/cctv1hd.m3u8
+# 88.2分 A 优秀 首帧5.12s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-风云剧场
+http://192.151.150.154/live/fyjc.m3u8
+# 88.2分 A 优秀 首帧5.13s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-9
+http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
+# 88.2分 A 优秀 首帧5.13s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-12社会与法
+http://173.208.212.130:8181/1080p/cctv12.m3u8
+# 88.2分 A 优秀 首帧5.15s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-8K超高清
+http://107.150.60.122/live/cctv8k.m3u8
+# 88.1分 A 优秀 首帧5.16s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-11HD
+http://198.204.228.26/live/cctv11hd.m3u8
+# 88.1分 A 优秀 首帧5.16s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-2
+http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
+# 88.1分 A 优秀 首帧5.16s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-电视指南
+http://198.204.228.26/live/dszn.m3u8
+# 88.1分 A 优秀 首帧5.18s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广西新闻
+http://192.151.150.154/live/gxxw.m3u8
+# 88.0分 A 优秀 首帧5.19s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-14HD
+http://198.204.228.26/live/cctv14hd.m3u8
+# 88.0分 A 优秀 首帧5.19s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",北京卫视
+http://bztv.tvbus.cc:8081/cdnlive/bjws.m3u8
+# 88.0分 A 优秀 首帧5.18s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",陕西卫视HD
+http://107.150.60.122/live/snwshd.m3u8
+# 88.0分 A 优秀 首帧5.18s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-7 国防 军事
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+# 88.0分 A 优秀 首帧5.2s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-央视台球
+http://173.208.212.130:8181/720p/ystq.m3u8
+# 88.0分 A 优秀 首帧5.2s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广西国际
+http://107.150.60.122/live/gxgj.m3u8
+# 88.0分 A 优秀 首帧5.2s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",江西新闻频道
+http://198.204.228.26/live/jxtv7.m3u8
+# 88.0分 A 优秀 首帧5.2s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-9HD
+http://107.150.60.122/live/cctv9hd.m3u8
+# 88.0分 A 优秀 首帧5.2s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-央视台球
+http://192.151.150.154/live/ystq.m3u8
+# 88.0分 A 优秀 首帧5.2s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-2财经
+http://173.208.212.130:8181/1080p/cctv2.m3u8
+# 88.0分 A 优秀 首帧5.21s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广西卫视
+http://bztv.tvbus.cc:8081/cdnlive/gxws.m3u8
+# 88.0分 A 优秀 首帧5.21s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",湖南娱乐
+http://192.151.150.154/live/hnyl.m3u8
+# 88.0分 A 优秀 首帧5.22s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-央视文化精品
+http://107.150.60.122/live/ysjp.m3u8
+# 87.9分 A 优秀 首帧5.23s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CHC家庭影院
+http://107.150.60.122/live/chcjt.m3u8
+# 87.9分 A 优秀 首帧5.24s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-4 中文国际
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+# 87.9分 A 优秀 首帧5.25s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-5HD
+http://198.204.228.26/live/cctv5hd.m3u8
+# 87.9分 A 优秀 首帧5.25s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-兵器科技
+http://173.208.212.130:8181/720p/gfjs.m3u8
+# 87.8分 A 优秀 首帧5.26s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",重庆卫视
+http://bztv.tvbus.cc:8081/cdnlive/cqws.m3u8
+# 87.8分 A 优秀 首帧5.26s 856x480
+#EXTINF:-1 tvg-id="" group-title="最优",林正英影院
+http://198.204.228.26/live/lblzy.m3u8
+# 87.8分 A 优秀 首帧5.26s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",河南卫视HD
+http://192.151.150.154/live/hawshd.m3u8
+# 87.8分 A 优秀 首帧5.27s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",广东珠江
+http://107.150.60.122/live/gdzj.m3u8
+# 87.8分 A 优秀 首帧5.27s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-世界地理
+http://173.208.212.130:8181/720p/sjdl.m3u8
+# 87.7分 A 优秀 首帧5.29s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CHC影迷电影
+http://107.150.60.122/live/chchd.m3u8
+# 87.7分 A 优秀 首帧5.29s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",广东珠江
+http://192.151.150.154/live/gdzj.m3u8
+# 87.7分 A 优秀 首帧5.3s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-17HD
+http://192.151.150.154/live/cctv17hd.m3u8
+# 87.7分 A 优秀 首帧5.3s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-兵器科技
+http://198.204.228.26/live/gfjs.m3u8
+# 87.7分 A 优秀 首帧5.31s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-怀旧剧场
+http://198.204.228.26/live/hjjc.m3u8
+# 87.7分 A 优秀 首帧5.31s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",三沙卫视
+http://192.151.150.154/live/ssws.m3u8
+# 87.7分 A 优秀 首帧5.31s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",周星驰电影
+http://198.204.228.26/live/lbzxc.m3u8
+# 87.7分 A 优秀 首帧5.31s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-14
+http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
+# 87.7分 A 优秀 首帧5.31s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",湖北卫视HD
+http://192.151.150.154/live/hbwshd.m3u8
+# 87.7分 A 优秀 首帧5.32s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",广东珠江
+http://198.204.228.26/live/gdzj.m3u8
+# 87.7分 A 优秀 首帧5.32s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",宁夏卫视
+http://107.150.60.122/live/nxws.m3u8
+# 87.6分 A 优秀 首帧5.33s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CHC家庭影院
+http://198.204.228.26/live/chcjt.m3u8
+# 87.6分 A 优秀 首帧5.33s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",浙江卫视HD
+http://107.150.60.122/live/zjwshd.m3u8
+# 87.6分 A 优秀 首帧5.34s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-4HD
+http://198.204.228.26/live/cctv4hd.m3u8
+# 87.5分 A 优秀 首帧5.36s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-11戏曲
+http://173.208.212.130:8181/720p/cctv11.m3u8
+# 87.5分 A 优秀 首帧5.38s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CHC动作电影
+http://107.150.60.122/live/chcdz.m3u8
+# 87.5分 A 优秀 首帧5.38s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-高尔夫网球
+http://192.151.150.154/live/gefwq.m3u8
+# 87.5分 A 优秀 首帧5.39s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-世界地理
+http://192.151.150.154/live/sjdl.m3u8
+# 87.4分 A 优秀 首帧5.4s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-8
+http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
+# 87.4分 A 优秀 首帧5.41s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-14少儿
+http://173.208.212.130:8181/720p/cctv14.m3u8
+# 87.4分 A 优秀 首帧5.41s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-风云足球
+http://173.208.212.130:8181/720p/fyzq.m3u8
+# 87.3分 A 优秀 首帧5.43s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-央视台球
+http://bztv.tvbus.cc:8081/cdnlive/ystq.m3u8
+# 87.3分 A 优秀 首帧5.44s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",湖北卫视
+http://bztv.tvbus.cc:8081/cdnlive/hbws.m3u8
+# 87.3分 A 优秀 首帧5.44s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-10HD
+http://107.150.60.122/live/cctv10hd.m3u8
+# 87.3分 A 优秀 首帧5.44s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",云南卫视HD
+http://192.151.150.154/live/ynwshd.m3u8
+# 87.3分 A 优秀 首帧5.44s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",云南卫视HD
+http://107.150.60.122/live/ynwshd.m3u8
+# 87.3分 A 优秀 首帧5.45s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CHC动作电影
+http://192.151.150.154/live/chcdz.m3u8
+# 87.3分 A 优秀 首帧5.45s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",重温经典
+http://192.151.150.154/live/cwjd.m3u8
+# 87.3分 A 优秀 首帧5.45s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广西国际
+http://198.204.228.26/live/gxgj.m3u8
+# 87.2分 A 优秀 首帧5.47s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",周星驰电影
+http://107.150.60.122/live/lbzxc.m3u8
+# 87.2分 A 优秀 首帧5.48s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",重温经典
+http://198.204.228.26/live/cwjd.m3u8
+# 87.2分 A 优秀 首帧5.49s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",重庆卫视HD
+http://107.150.60.122/live/cqwshd.m3u8
+# 87.1分 A 优秀 首帧5.51s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-6电影
+http://173.208.212.130:8181/1080p/cctv6.m3u8
+# 87.1分 A 优秀 首帧5.51s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",河北卫视HD
+http://198.204.228.26/live/hewshd.m3u8
+# 87.1分 A 优秀 首帧5.51s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-15HD
+http://107.150.60.122/live/cctv15hd.m3u8
+# 87.1分 A 优秀 首帧5.51s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-5+
+http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
+# 87.1分 A 优秀 首帧5.52s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",宁夏卫视
+http://192.151.150.154/live/nxws.m3u8
+# 87.1分 A 优秀 首帧5.52s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广西国际
+http://192.151.150.154/live/gxgj.m3u8
+# 87.1分 A 优秀 首帧5.52s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-7 国防 军事
+http://74.91.26.218:82/live/cctv7hd.m3u8
+# 87.1分 A 优秀 首帧5.53s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-14少儿
+http://173.208.212.130:8181/1080p/cctv14.m3u8
+# 87.1分 A 优秀 首帧5.52s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广西综艺旅游
+http://198.204.228.26/live/gxzy.m3u8
+# 87.1分 A 优秀 首帧5.53s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-兵器科技
+http://192.151.150.154/live/gfjs.m3u8
+# 87.0分 A 优秀 首帧5.53s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",天元围棋
+http://198.204.228.26/live/gztywq.m3u8
+# 87.0分 A 优秀 首帧5.53s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",广东新闻
+http://107.150.60.122/live/gdxw.m3u8
+# 87.0分 A 优秀 首帧5.54s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-8 电视剧
+http://74.91.26.218:82/live/cctv8hd.m3u8
+# 87.0分 A 优秀 首帧5.55s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",黑龙江卫视HD
+http://192.151.150.154/live/hljwshd.m3u8
+# 87.0分 A 优秀 首帧5.55s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",北京卫视HD
+http://198.204.228.26/live/bjwshd.m3u8
+# 87.0分 A 优秀 首帧5.56s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-13新闻
+http://173.208.212.130:8181/720p/cctv13.m3u8
+# 87.0分 A 优秀 首帧5.56s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",吉林卫视
+http://107.150.60.122/live/jlwshd.m3u8
+# 87.0分 A 优秀 首帧5.56s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-5+ 体育赛事
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+# 86.9分 A 优秀 首帧5.59s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-世界地理
+http://198.204.228.26/live/sjdl.m3u8
+# 86.8分 A 优秀 首帧5.61s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-4中文国际
+http://173.208.212.130:8181/1080p/cctv4.m3u8
+# 86.7分 A 优秀 首帧5.65s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",贵州卫视HD
+http://198.204.228.26/live/gzwshd.m3u8
+# 86.7分 A 优秀 首帧5.65s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-风云音乐
+http://173.208.212.130:8181/720p/fyyy.m3u8
+# 86.7分 A 优秀 首帧5.67s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-15音乐
+http://173.208.212.130:8181/1080p/cctv15.m3u8
+# 86.6分 A 优秀 首帧5.67s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",青海卫视
+http://192.151.150.154/live/qhws.m3u8
+# 86.6分 A 优秀 首帧5.68s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",天津卫视HD
+http://198.204.228.26/live/tjwshd.m3u8
+# 86.6分 A 优秀 首帧5.69s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-5+HD
+http://173.208.212.130:8181/720p/cctv5p.m3u8
+# 86.6分 A 优秀 首帧5.69s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",吉林卫视HD
+http://198.204.228.26/live/jlwshd.m3u8
+# 86.6分 A 优秀 首帧5.7s 720x576
+#EXTINF:-1 tvg-id="" group-title="最优",三沙卫视
+http://107.150.60.122/live/ssws.m3u8
+# 86.5分 A 优秀 首帧5.71s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-5+HD
+http://173.208.212.130:8181/1080p/cctv5p.m3u8
+# 86.5分 A 优秀 首帧5.73s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广西影视
+http://107.150.60.122/live/gxys.m3u8
+# 86.4分 A 优秀 首帧5.75s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-兵器科技
+http://bztv.tvbus.cc:8081/cdnlive/gfjs.m3u8
+# 86.4分 A 优秀 首帧5.77s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",河北卫视HD
+http://192.151.150.154/live/hewshd.m3u8
+# 86.4分 A 优秀 首帧5.77s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",东南卫视
+http://bztv.tvbus.cc:8081/cdnlive/dnws.m3u8
+# 86.3分 A 优秀 首帧5.78s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-13
+http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
+# 86.3分 A 优秀 首帧5.78s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-17HD
+http://107.150.60.122/live/cctv17hd.m3u8
+# 86.3分 A 优秀 首帧5.8s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",内蒙古卫视
+http://107.150.60.122/live/nmgws.m3u8
+# 86.3分 A 优秀 首帧5.8s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-6 电影
+http://69.30.245.50/live/cctv6.m3u8
+# 86.2分 A 优秀 首帧5.84s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-卫生健康
+http://107.150.60.122/live/wsjk.m3u8
+# 86.1分 A 优秀 首帧5.85s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-2HD
+http://107.150.60.122/live/cctv2hd.m3u8
+# 86.1分 A 优秀 首帧5.86s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-8K超高清
+http://192.151.150.154/live/cctv8k.m3u8
+# 86.1分 A 优秀 首帧5.86s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-11戏曲
+http://173.208.212.130:8181/1080p/cctv11.m3u8
+# 86.1分 A 优秀 首帧5.88s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-怀旧剧场
+http://107.150.60.122/live/hjjc.m3u8
+# 86.0分 A 优秀 首帧5.89s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-卫生健康
+http://173.208.212.130:8181/720p/wsjk.m3u8
+# 86.0分 A 优秀 首帧5.89s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",山西卫视HD
+http://192.151.150.154/live/sxwshd.m3u8
+# 86.0分 A 优秀 首帧5.9s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",安徽卫视
+http://bztv.tvbus.cc:8081/cdnlive/ahws.m3u8
+# 86.0分 A 优秀 首帧5.9s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",黑龙江卫视
+http://bztv.tvbus.cc:8081/cdnlive/hljws.m3u8
+# 86.0分 A 优秀 首帧5.92s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-8HD
+http://198.204.228.26/live/cctv8hd.m3u8
+# 85.9分 A 优秀 首帧5.95s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-7 国防 军事
+http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+# 85.8分 A 优秀 首帧5.95s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",内蒙古卫视
+http://198.204.228.26/live/nmgws.m3u8
+# 85.8分 A 优秀 首帧5.97s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-央视文化精品
+http://173.208.212.130:8181/720p/ysjp.m3u8
+# 85.8分 A 优秀 首帧5.99s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-央视台球
+http://107.150.60.122/live/ystq.m3u8
+# 85.7分 A 优秀 首帧5.99s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-17农业农村
+http://173.208.212.130:8181/1080p/cctv17.m3u8
+# 85.7分 A 优秀 首帧6.0s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",重庆卫视HD
+http://198.204.228.26/live/cqwshd.m3u8
+# 85.7分 A 优秀 首帧6.02s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",海南卫视
+http://204.12.221.218:8181/3m1080p/lyws.m3u8
+# 85.6分 A 优秀 首帧6.03s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-1 综合
+http://173.208.212.130:8181/720p/cctv1.m3u8
+# 85.5分 A 优秀 首帧6.06s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-7
+http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8
+# 85.5分 A 优秀 首帧6.06s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-15HD
+http://198.204.228.26/live/cctv15hd.m3u8
+# 85.5分 A 优秀 首帧6.08s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-3HD
+http://198.204.228.26/live/cctv3hd.m3u8
+# 85.5分 A 优秀 首帧6.08s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-8HD
+http://192.151.150.154/live/cctv8hd.m3u8
+# 85.5分 A 优秀 首帧6.09s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广东卫视HD
+http://107.150.60.122/live/gdwshd.m3u8
+# 85.3分 A 优秀 首帧6.13s 856x480
+#EXTINF:-1 tvg-id="" group-title="最优",林正英影院
+http://192.151.150.154/live/lblzy.m3u8
+# 85.3分 A 优秀 首帧6.15s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",湖北卫视HD
+http://198.204.228.26/live/hbwshd.m3u8
+# 85.2分 A 优秀 首帧6.16s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-16奥林匹克
+http://173.208.212.130:8181/720p/cctv16.m3u8
+# 85.2分 A 优秀 首帧6.19s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广西综艺旅游
+http://107.150.60.122/live/gxzy.m3u8
+# 85.1分 A 优秀 首帧6.22s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",东方卫视HD
+http://107.150.60.122/live/dfwshd.m3u8
+# 85.0分 A 优秀 首帧6.24s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",贵州卫视
+http://bztv.tvbus.cc:8081/cdnlive/gzws.m3u8
+# 85.0分 B 良好 首帧6.25s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-16奥林匹克
+http://173.208.212.130:8181/1080p/cctv16.m3u8
+# 85.0分 B 良好 首帧6.26s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-第一剧场
+http://198.204.228.26/live/dyjc.m3u8
+# 84.9分 B 良好 首帧6.29s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",天津体育
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+# 84.7分 B 良好 首帧6.34s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-6 电影
+http://207.56.13.146:81/cdnlive/cctv6.m3u8
+# 84.6分 B 良好 首帧6.38s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广西卫视HD
+http://107.150.60.122/live/gxwshd.m3u8
+# 84.6分 B 良好 首帧6.38s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-世界地理
+http://bztv.tvbus.cc:8081/cdnlive/sjdl.m3u8
+# 84.6分 B 良好 首帧6.39s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-12社会与法
+http://173.208.212.130:8181/720p/cctv12.m3u8
+# 84.5分 B 良好 首帧6.44s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",北京卫视HD
+http://107.150.60.122/live/bjwshd.m3u8
+# 84.5分 B 良好 首帧6.44s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",湖北卫视HD
+http://107.150.60.122/live/hbwshd.m3u8
+# 84.4分 B 良好 首帧6.46s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",新疆卫视
+http://198.204.228.26/live/xjws.m3u8
+# 84.3分 B 良好 首帧6.48s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",河北卫视
+http://173.208.212.130:8181/720p/hews.m3u8
+# 84.3分 B 良好 首帧6.51s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-12
+http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8
+# 83.9分 B 良好 首帧6.65s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",辽宁卫视
+http://bztv.tvbus.cc:8081/cdnlive/lnws.m3u8
+# 83.8分 B 良好 首帧6.66s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",安徽卫视HD
+http://198.204.228.26/live/ahwshd.m3u8
+# 83.8分 B 良好 首帧6.67s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-11
+http://bztv.tvbus.cc:8081/cdnlive/cctv11.m3u8
+# 83.5分 B 良好 首帧6.76s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",内蒙古卫视
+http://192.151.150.154/live/nmgws.m3u8
+# 83.5分 B 良好 首帧6.78s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广东卫视
+http://173.208.212.130:8181/720p/gdws.m3u8
+# 83.3分 B 良好 首帧6.85s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-怀旧剧场
+http://bztv.tvbus.cc:8081/cdnlive/hjjc.m3u8
+# 83.2分 B 良好 首帧6.86s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-3综艺
+http://173.208.212.130:8181/720p/cctv3.m3u8
+# 83.2分 B 良好 首帧6.88s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-第一剧场
+http://bztv.tvbus.cc:8081/cdnlive/dyjc.m3u8
+# 83.1分 B 良好 首帧6.92s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",黑龙江卫视HD
+http://198.204.228.26/live/hljwshd.m3u8
+# 83.0分 B 良好 首帧6.96s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-风云足球
+http://192.151.150.154/live/fyzq.m3u8
+# 82.9分 B 良好 首帧6.97s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",湖南卫视HD
+http://192.151.150.154/live/hnwshd.m3u8
+# 82.7分 B 良好 首帧7.05s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",江苏卫视
+http://173.208.212.130:8181/1080p/jsws.m3u8
+# 82.7分 B 良好 首帧7.05s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-7国防军事
+http://173.208.212.130:8181/1080p/cctv7.m3u8
+# 82.7分 B 良好 首帧7.07s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",湖南卫视HD
+http://107.150.60.122/live/hnwshd.m3u8
+# 82.0分 B 良好 首帧7.28s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",四川卫视HD
+http://192.151.150.154/live/scwshd.m3u8
+# 82.0分 B 良好 首帧7.28s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-2 财经
+http://74.91.26.218:82/live/cctv2hd.m3u8
+# 81.7分 B 良好 首帧7.39s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",河南卫视HD
+http://107.150.60.122/live/hawshd.m3u8
+# 81.4分 B 良好 首帧7.5s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",河北卫视HD
+http://107.150.60.122/live/hewshd.m3u8
+# 81.2分 B 良好 首帧7.56s 1920x1080
+#EXTINF:-1 tvg-id="" group-title="最优",广东卫视HD
+http://198.204.228.26/live/gdwshd.m3u8
+# 80.4分 B 良好 首帧7.86s 1280x720
+#EXTINF:-1 tvg-id="" group-title="最优",CCTV-14HD
+http://107.150.60.122/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="" group-title="央视",CCTV-1 综合
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
 #EXTINF:-1 tvg-id="" group-title="央视",CCTV-10 科教
