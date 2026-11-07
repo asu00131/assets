@@ -6003,6 +6003,9 @@ http://home.szjim.top:4000/udp/239.77.1.237:5146
 http://home.szjim.top:4000/udp/239.77.0.244:5146
 #EXTINF:-1 tvg-id="广东综艺" group-title="广东区域",广东综艺
 http://rfx2025.shunderen.top:2345/udp/239.77.1.237:5146
+# ----- 佛山电台飞跃924 (最高分 3214 · 线路 1) -----
+#EXTINF:-1 tvg-id="佛山电台飞跃924" group-title="广东区域",佛山电台飞跃924
+https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_42_audio.m3u8
 # ----- 广东音乐之声 (最高分 3930 · 线路 1) -----
 #EXTINF:-1 tvg-id="广东音乐之声" group-title="广东区域",广东音乐之声
 https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
@@ -6532,9 +6535,6 @@ https://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 http://xxika.synology.me:8188/rtp/239.77.1.244:5146
 #EXTINF:-1 tvg-id="深圳少儿频道" group-title="广东区域",深圳少儿频道
 http://nas.xxika.net:8188/rtp/239.77.1.244:5146
-# ----- 佛山电台飞跃924 (最高分 3214 · 线路 1) -----
-#EXTINF:-1 tvg-id="佛山电台飞跃924" group-title="广东区域",佛山电台飞跃924
-https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_42_audio.m3u8
 # ----- 深圳龙岗频道 (最高分 3150 · 线路 2) -----
 #EXTINF:-1 tvg-id="深圳龙岗频道" group-title="广东区域",深圳龙岗频道
 http://xxika.synology.me:8188/rtp/239.77.1.223:5146
@@ -6546,9 +6546,6 @@ http://pr.19760929.xyz:9688/rtp/239.253.43.46:5146
 # ----- 广东南粤之声 (最高分 2915 · 线路 1) -----
 #EXTINF:-1 tvg-id="广东南粤之声" group-title="广东区域",广东南粤之声
 https://satellitepull.cnr.cn/live/wxnyzs/playlist.m3u8
-# ----- 周星星粤语经典版~ (最高分 2728 · 线路 1) -----
-#EXTINF:-1 tvg-id="周星星粤语经典版~" group-title="广东区域",周星星粤语经典版~
-http://nn.7x9d.cn/xz/虎牙.php?id=11336587
 # ----- 梅州1 (最高分 2543 · 线路 1) -----
 #EXTINF:-1 tvg-id="梅州1" group-title="广东区域",梅州-1
 http://nas.xxika.net:8188/rtp/239.253.43.123:5146
