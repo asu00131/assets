@@ -5089,6 +5089,17 @@ http://www.745612.xyz:7788/rtp/235.254.197.15:7980
 http://45.192.97.170:8880/play/225.m3u8
 
 # ============ 广东区域 (83 个) ============
+# ----- 佛山电台飞跃924 (最高分 3214 · 线路 1) -----
+#EXTINF:-1 tvg-id="佛山电台飞跃924" group-title="广东区域",佛山电台飞跃924
+https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_42_audio.m3u8
+# ----- 广东音乐之声 (最高分 3930 · 线路 1) -----
+#EXTINF:-1 tvg-id="广东音乐之声" group-title="广东区域",广东音乐之声
+https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
+# ----- 深圳飞扬971 (最高分 3971 · 线路 2) -----
+#EXTINF:-1 tvg-id="深圳飞扬971" group-title="广东区域",深圳飞扬971
+http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
+#EXTINF:-1 tvg-id="深圳飞扬971" group-title="广东区域",深圳飞扬971
+https://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
 # ----- 广东珠江 (最高分 3974 · 线路 25) -----
 #EXTINF:-1 tvg-id="广东珠江" group-title="广东区域",广东珠江
 http://8.138.7.223/tv/gdzj.m3u8
@@ -5409,11 +5420,6 @@ http://17782331118.top:8188/rtp/235.254.197.167:7980
 http://14.127.213.91:4022/udp/239.77.1.14:5146
 #EXTINF:-1 tvg-id="深圳卫视" group-title="广东区域",深圳卫视
 http://home.pinkfloyd.cn:5000/rtp/238.1.78.156:7120
-# ----- 深圳飞扬971 (最高分 3971 · 线路 2) -----
-#EXTINF:-1 tvg-id="深圳飞扬971" group-title="广东区域",深圳飞扬971
-http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
-#EXTINF:-1 tvg-id="深圳飞扬971" group-title="广东区域",深圳飞扬971
-https://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
 # ----- 广东卫视 (最高分 3967 · 线路 136) -----
 #EXTINF:-1 tvg-id="广东卫视" group-title="广东区域",广东卫视
 http://120.76.248.139/live/bfgd/4200000092.m3u8
@@ -6003,12 +6009,6 @@ http://home.szjim.top:4000/udp/239.77.1.237:5146
 http://home.szjim.top:4000/udp/239.77.0.244:5146
 #EXTINF:-1 tvg-id="广东综艺" group-title="广东区域",广东综艺
 http://rfx2025.shunderen.top:2345/udp/239.77.1.237:5146
-# ----- 佛山电台飞跃924 (最高分 3214 · 线路 1) -----
-#EXTINF:-1 tvg-id="佛山电台飞跃924" group-title="广东区域",佛山电台飞跃924
-https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_42_audio.m3u8
-# ----- 广东音乐之声 (最高分 3930 · 线路 1) -----
-#EXTINF:-1 tvg-id="广东音乐之声" group-title="广东区域",广东音乐之声
-https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
 # ----- 东莞新闻综合 (最高分 3929 · 线路 6) -----
 #EXTINF:-1 tvg-id="东莞新闻综合" group-title="广东区域",东莞新闻综合
 http://121.10.7.16:4000/udp/239.253.43.104:5146
